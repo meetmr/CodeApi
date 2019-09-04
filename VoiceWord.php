@@ -1,5 +1,10 @@
 <?php
-
+/*
+ * 功能：百度语音识别
+ * 版本：1.1
+ * 时间：2019-09-04
+ */
+ 
 class VoiceWord{
     static $API_KEY = '';  // 百度apikey
     static $SECRET_KEY = '';
